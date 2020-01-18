@@ -48,6 +48,13 @@ figure{
     width: 475px;
     height: 400px;
 }
+@media (max-width: 1868px){
+    figure{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
 figure img.albuns{
     width: inherit;
     height: inherit;
